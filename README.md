@@ -198,7 +198,7 @@ Here are some ideas to get you started:
 [![tiktok]( https://img.shields.io/badge/抖音-星冰樂༊-black.svg?logo=Tiktok)](https://www.douyin.com/user/MS4wLjABAAAAFVvBp9mE4LHyEGgvQRaD1FMpCQq7wAJ8kqSBC9jqpT0)
 [![酷安](https://img.shields.io/badge/酷安-筱笙墨露-3CA0FF?logo=android&logoColor=green)](https://www.coolapk.com/u/20080253)
 
-[![zhihu](https://img.shields.io/badge/知乎-阿叶Ayeez-blue.svg?logo=zhihu)](https://www.zhihu.com/people/summer.Ja)
+[![zhihu](https://img.shields.io/badge/知乎-Summer.Ja-blue.svg?logo=zhihu)](https://www.zhihu.com/people/Summer.Ja)
 [![csdn](https://img.shields.io/badge/csdn-Privat5418-red?logo=csdn)](https://www.zhihu.com/people/weixin_47554682)
 [![xiaohongshu](https://img.shields.io/badge/小红书-妳是我の半途癈-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/63c16665000000002702b0d1?xsec_token=YBc2ap2WAHtg6qaI8lv7Gx_wOIqPaXHFOR0u9bImeE4vY%3D&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODlFMTk7Oj42NzUyOTgwNjg6OTlGNUo6&apptime=1759241547&share_id=5f0332ee0000000001005114&share_channel=copy_link)
 
